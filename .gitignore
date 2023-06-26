@@ -1,0 +1,10 @@
+/.DS_Store
+/.vscode
+
+*.hex
+*.elf
+*.lst
+*.sec
+*.o
+
+*_backup.simu
